@@ -1,0 +1,13 @@
+{
+  "artifactId": "my-project",
+  "groupId": "my-group",
+  "version": "0.0.1",
+  "sourceDirectories": [
+    "lib1/src",
+    "lib2/src"
+  ],
+  "testDirectories": [
+    "lib1/test",
+    "lib2/test"
+  ]
+}
