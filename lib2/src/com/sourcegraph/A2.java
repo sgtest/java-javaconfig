@@ -1,3 +1,5 @@
+package com.sourcegraph;
+
 import com.sourcegraph.A1;
 
 public class A2 {
