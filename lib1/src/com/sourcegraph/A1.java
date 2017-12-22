@@ -1,4 +1,4 @@
-import com.sourcegraph.A2;
+package com.sourcegraph.A2;
 
 public class A1 {
     public String f1;
